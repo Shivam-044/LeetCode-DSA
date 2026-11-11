@@ -17,6 +17,7 @@ Tracking my problem-solving journey, consistency, and progress in Data Structure
 
 | Date | Problem | Difficulty | GitHub |
 |---|---|---|---|
+| Nov 11, 2026 | [001. Two Sum ](https://leetcode.com/problems/two-sum) | Easy | ☑️ |
 | Nov 10, 2026 | [69. Sqrt(x)](https://leetcode.com/problems/sqrtx/) | Easy | ⏳ |
 | Nov 10, 2026 | [67. Add Binary](https://leetcode.com/problems/add-binary/) | Easy | ⏳ |
 | Oct 25, 2026 | [912. Sort an Array](https://leetcode.com/problems/sort-an-array/) | Medium | ⏳ |
