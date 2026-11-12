@@ -77,8 +77,8 @@ Let `n` and `m` represent the lengths of the two input strings.
 
 | Language | Approach | File |
 |---|---|---|
-| Python | Built-in Binary Conversion | [solution.py](./solution.py) |
-| Java | Manual Addition with Carry | [solution.java](./solution.java) |
+| Python | Built-in Binary Conversion | [solution.py](./Solution.py) |
+| Java | Manual Addition with Carry | [solution.java](./Solution.java) |
 
 ---
 
