@@ -17,15 +17,15 @@ Tracking my problem-solving journey, consistency, and progress in Data Structure
 
 | Date | Problem | Difficulty | GitHub |
 |---|---|---|---|
-| Nov 11, 2026 | [001. Two Sum ](https://leetcode.com/problems/two-sum) | Easy | ☑️ |
+| Nov 11, 2026 | [01. Two Sum ](https://leetcode.com/problems/two-sum) | Easy | ☑️ |
+| Nov 13, 2026 | [02. Add Two Numbers ](https://leetcode.com/problems/add-two-numbers) | Medium | ☑️ |
 | Nov 10, 2026 | [69. Sqrt(x)](https://leetcode.com/problems/sqrtx/) | Easy | ☑️ |
 | Nov 10, 2026 | [67. Add Binary](https://leetcode.com/problems/add-binary/) | Easy | ☑️ |
 | Oct 25, 2026 | [912. Sort an Array](https://leetcode.com/problems/sort-an-array/) | Medium | ☑️ |
-| Oct 25, 2026 | [700. Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/) | Easy | ⏳ |
+| Oct 25, 2026 | [700. Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/) | Easy | ☑️ |
 | Oct 25, 2026 | [215. Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | Medium | ⏳ |
 | Oct 25, 2026 | [200. Number of Islands](https://leetcode.com/problems/number-of-islands/) | Medium | ⏳ |
 | Oct 25, 2026 | [94. Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | Easy | ⏳ |
-| Oct 25, 2026 | [1. Two Sum](https://leetcode.com/problems/two-sum/) | Easy | ⏳ |
 | Oct 25, 2026 | [90. Subsets II](https://leetcode.com/problems/subsets-ii/) | Medium | ⏳ |
 | Oct 25, 2026 | [78. Subsets](https://leetcode.com/problems/subsets/) | Medium | ⏳ |
 | Oct 25, 2026 | [509. Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) | Easy | ⏳ |
