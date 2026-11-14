@@ -95,5 +95,11 @@ Let `m` and `n` represent the lengths of the two input linked lists.
 Both implementations follow the same algorithm, use a dummy node to construct the result, and create a new linked list without modifying the input lists.
 
 ---
+---
+<div align="center">
+  <a href="https://github.com/Shivam-044/https://github.com/Shivam-044/LeetCode-DSA/stargazers">
+    <img src="https://img.shields.io/github/stars/Shivam-044/https://github.com/Shivam-044/LeetCode-DSA?style=for-the-badge&color=gold&label=BOOKMARK%20REPO" alt="Stars" />
+  </a>
+</div>
 
 *Key takeaway: A dummy node simplifies linked-list construction, while carry propagation allows arithmetic operations to be performed efficiently without converting the linked lists into complete integer values.*
