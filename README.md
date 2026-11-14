@@ -45,6 +45,7 @@ leetcode-dsa/
     │   ├── README.md
     │   ├── solution.cpp
     │   └── solution.py
+    |   |__ solution.c
     │
     └── ...
 ```
@@ -81,3 +82,6 @@ I maintain a separate progress tracker to document solved problems and monitor m
 <p align="center">
   <i>One problem at a time. One concept at a time. Continuous improvement.</i>
 </p>
+
+## Live Progress
+![LeetCode Stats](https://leetcard.jacoblin.cool/shivam-kumar-cgc?theme=dark&font=Inter)
