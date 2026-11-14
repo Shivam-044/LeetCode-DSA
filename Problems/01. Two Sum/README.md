@@ -41,5 +41,7 @@ This approach avoids checking every possible pair and solves the problem in a si
 Both implementations use the same one-pass hash map approach.
 
 ---
+> [!TIP]
+> **Time Complexity of finding this repo again:** $O(N)$ without a bookmark, $O(1)$ if you drop a ⭐.
 
 *Key takeaway: A hash map allows us to trade extra space for faster lookups, reducing the time complexity from O(n²) to O(n) on average.*
