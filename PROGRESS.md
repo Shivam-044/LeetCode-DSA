@@ -23,7 +23,7 @@ Tracking my problem-solving journey, consistency, and progress in Data Structure
 | Nov 10, 2026 | [67. Add Binary](https://leetcode.com/problems/add-binary/) | Easy | ☑️ |
 | Oct 25, 2026 | [912. Sort an Array](https://leetcode.com/problems/sort-an-array/) | Medium | ☑️ |
 | Oct 25, 2026 | [700. Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/) | Easy | ☑️ |
-| Oct 25, 2026 | [215. Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | Medium | ⏳ |
+| Oct 25, 2026 | [215. Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | Medium | ☑️ |
 | Oct 25, 2026 | [200. Number of Islands](https://leetcode.com/problems/number-of-islands/) | Medium | ⏳ |
 | Oct 25, 2026 | [94. Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | Easy | ⏳ |
 | Oct 25, 2026 | [90. Subsets II](https://leetcode.com/problems/subsets-ii/) | Medium | ⏳ |
